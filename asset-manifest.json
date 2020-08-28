@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Trello/static/css/main.5a1b95e7.chunk.css",
+    "main.js": "/Trello/static/js/main.1cd459d4.chunk.js",
+    "main.js.map": "/Trello/static/js/main.1cd459d4.chunk.js.map",
+    "runtime-main.js": "/Trello/static/js/runtime-main.d549d69f.js",
+    "runtime-main.js.map": "/Trello/static/js/runtime-main.d549d69f.js.map",
+    "static/js/2.4162f687.chunk.js": "/Trello/static/js/2.4162f687.chunk.js",
+    "static/js/2.4162f687.chunk.js.map": "/Trello/static/js/2.4162f687.chunk.js.map",
+    "index.html": "/Trello/index.html",
+    "precache-manifest.e23fa59e1427389d3c7ae88479c1351e.js": "/Trello/precache-manifest.e23fa59e1427389d3c7ae88479c1351e.js",
+    "service-worker.js": "/Trello/service-worker.js",
+    "static/css/main.5a1b95e7.chunk.css.map": "/Trello/static/css/main.5a1b95e7.chunk.css.map",
+    "static/js/2.4162f687.chunk.js.LICENSE.txt": "/Trello/static/js/2.4162f687.chunk.js.LICENSE.txt",
+    "static/media/hotel-1.jpg": "/Trello/static/media/hotel-1.5a550a3d.jpg",
+    "static/media/hotel-2.jpg": "/Trello/static/media/hotel-2.5468a3b1.jpg",
+    "static/media/hotel-3.jpg": "/Trello/static/media/hotel-3.7af5efbc.jpg",
+    "static/media/user.jpg": "/Trello/static/media/user.a2a26d79.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d549d69f.js",
+    "static/js/2.4162f687.chunk.js",
+    "static/css/main.5a1b95e7.chunk.css",
+    "static/js/main.1cd459d4.chunk.js"
+  ]
+}
